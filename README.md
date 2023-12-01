@@ -14,9 +14,14 @@ This project aims to develop a scraping service using FastAPI to extract data fr
 
 1. Clone the repository:
    https://github.com/zayenef/Python-Technical-Assessment.git
+   
 
 2.Navigate to the project directory :
   cd Python-Technical-Assessment
+![4](https://github.com/zayenef/Python-Technical-Assessment/assets/88392560/1095419a-b652-417c-b0aa-7d2a8ecafe55)
+![5](https://github.com/zayenef/Python-Technical-Assessment/assets/88392560/168c1711-99ca-4787-a088-f26014d40126)
+![6](https://github.com/zayenef/Python-Technical-Assessment/assets/88392560/eb03ce9c-2004-45dd-87cd-58ca0cd7590b)
+
 
 3. Build and run the Docker containers :
    docker-compose up --build
