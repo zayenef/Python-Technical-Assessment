@@ -13,11 +13,11 @@ This project aims to develop a scraping service using FastAPI to extract data fr
 ## How to Install and Run
 
 1. Clone the repository:
-   git clone https://github.com/your-username/Python-Technical-Assessment.git
+   https://github.com/zayenef/Python-Technical-Assessment.git
 
 2.Navigate to the project directory :
-cd Python-Technical-Assessment
+  cd Python-Technical-Assessment
 
 3. Build and run the Docker containers :
-docker-compose up --build
+   docker-compose up --build
 
