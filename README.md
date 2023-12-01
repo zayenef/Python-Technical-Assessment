@@ -28,6 +28,6 @@ This project aims to develop a scraping service using FastAPI to extract data fr
 3. write a test for the service  :
 ![7](https://github.com/zayenef/Python-Technical-Assessment/assets/88392560/21f9d457-bd3e-4d4f-8a01-b0548c2cb7eb)
 
-4. show scraped data :
+4. show scraped data from a public facebook page (example " https://www.facebook.com/Nasa/ "   :
 ![8](https://github.com/zayenef/Python-Technical-Assessment/assets/88392560/24290330-b02f-4e14-8f60-8956dbf6f245)
 
